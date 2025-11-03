@@ -1,0 +1,12 @@
+import './App.css'
+
+function App() {
+
+  return (
+    <>
+      <h1>Bienvenue sur mon blog</h1>
+    </>
+  )
+}
+
+export default App
