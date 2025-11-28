@@ -1,0 +1,45 @@
+.logo {
+  cursor: pointer;
+  width: 200px;
+  margin: 0;
+}
+.header {
+  display: flex;
+  align-items: center;
+  padding: 0px;
+  margin: 0px;
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  justify-content: space-between;
+  background-color: #f0f1f0;
+}
+nav ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+ul li {
+  margin-right: 10px;
+}
+.btn_head {
+  color: white;
+  height: 50px;
+  background-color: #2b2f80;
+  border-radius: 10px;
+  border: none;
+  width: 150px;
+}
+.btn_head:hover {
+  background-color: #646cff;
+  transform: translateY(-5px);
+  transition: all 0.3s ease;
+}
+.active {
+  color: #2b2f80;
+  font-weight: bold;
+  font-size: large;
+}

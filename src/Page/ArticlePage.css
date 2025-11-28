@@ -1,0 +1,99 @@
+h2 {
+  margin-top: 45px;
+  color: #2b2f80;
+}
+p {
+  line-height: 1.6;
+  font-size: 18px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+body {
+  background-color: #f4f4f4;
+  padding: 2px 4px;
+  border-radius: 4px;
+  font-family: "Courier New", Courier, monospace;
+}
+a {
+  color: #2b2f80;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+.ArticlePage {
+  max-width: 40%;
+  height: 50%;
+  margin: auto;
+  margin-top: 30px;
+  padding: 20px;
+  padding-bottom: 40px;
+  background-color: #fff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 1);
+  border-radius: 10px;
+  margin-bottom: 50px;
+}
+.btnmod {
+  background-color: #2b2f80;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-right: 20px;
+}
+.btnsupr {
+  background-color: #2b2f80;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.btn_upd {
+  background-color: #2b2f80;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 20%;
+}
+button:hover {
+  color: #2b2f80;
+  border: 2px solid #2b2f80;
+  background-color: white;
+}
+textarea {
+  width: 20%;
+  height: 150px;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  box-sizing: border-box;
+  display: block;
+  align-items: center;
+  margin: 20px auto;
+  gap: 10px;
+}
+input {
+  width: 20%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  box-sizing: border-box;
+  display: block;
+  align-items: center;
+  margin: 20px auto;
+  gap: 10px;
+}
+.image-article-page {
+  width: 60%;
+  height: auto;
+}

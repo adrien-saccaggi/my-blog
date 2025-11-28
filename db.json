@@ -1,0 +1,83 @@
+{
+  "article": [
+    {
+      "id": "0",
+      "title": "Le dauphin",
+      "content": "Les dauphins sont des mammifères marins très intelligents, connus pour leur comportement social et leur capacité à communiquer par sons et gestes.",
+      "image": "https://imgs.search.brave.com/V0S1-vNO0zho_ruBj6ijSvgh5fRiH_Q1fBP6nt0UREE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3RpL3Bob3Rv/cy1ncmF0dWl0ZS90/Mi8yMTYzOTIxNi1s/ZS1kYXVwaGluLXBy/b2NoZS12dWUtZGFu/cy1jb3p1bWVsLWls/ZS1kZWxwaGluYXJp/dW0tcGhvdG8uanBn",
+      "createdAt": "07/12/2020",
+      "isLiked": false
+    },
+    {
+      "id": "1",
+      "title": "La tortue de mer",
+      "content": "Les tortues marines parcourent des milliers de kilomètres pour migrer entre les zones d’alimentation et les sites de ponte.",
+      "image": "https://imgs.search.brave.com/Ewbi1fKSorkNIPJvDdYbZvC77ubylL9fZd7hugTXWnI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi8wLzBmL0dy/ZWVuX3R1cnRsZV9p/bl9Lb25hXzIwMDgu/anBnLzUxMnB4LUdy/ZWVuX3R1cnRsZV9p/bl9Lb25hXzIwMDgu/anBn",
+      "createdAt": "07/12/2020",
+      "isLiked": false
+    },
+    {
+      "id": "2",
+      "title": "Le grand requin blanc",
+      "content": "Prédateur emblématique des océans, le grand requin blanc joue un rôle essentiel dans l’équilibre des écosystèmes marins.",
+      "image": "https://imgs.search.brave.com/uJp9apfIHFVO9iG8CqapCLRMg42OoVyEk3tZWhUOubc/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi81LzU2L1do/aXRlX3NoYXJrLmpw/Zy81MTJweC1XaGl0/ZV9zaGFyay5qcGc",
+      "createdAt": "07/12/2020",
+      "isLiked": false
+    },
+    {
+      "id": "3",
+      "title": "La pieuvre géante du Pacifique",
+      "content": "Dotée d’une intelligence exceptionnelle et de capacités de camouflage impressionnantes, la pieuvre géante fascine les biologistes marins.",
+      "image": "https://imgs.search.brave.com/ZGg3Gdk78TZsXk1Epathi2c4ijMLO3_X1aDze6WvZyk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTMw/NTk2MjQ1NS9mci9w/aG90by9waWV1dnJl/LWclQzMlQTlhbnRl/LWR1LXBhY2lmaXF1/ZS1sYS1wbHVzLWdy/YW5kZS1lc3AlQzMl/QThjZS1kZS1wb3Vs/cGUtZGFucy1sYXF1/YXJpdW0uanBnP3M9/NjEyeDYxMiZ3PTAm/az0yMCZjPVNZVXB5/MWJmdnQ3UVViSzFm/OE05TW1abkZJR2hk/N0ZCaWFKVmJ4dV9F/dXc9",
+      "createdAt": "07/12/2020",
+      "isLiked": false
+    },
+    {
+      "id": "4",
+      "title": "La baleine bleue",
+      "content": "Plus grand animal vivant sur Terre, la baleine bleue peut atteindre plus de 30 mètres de long et peser jusqu'à 180 tonnes.",
+      "image": "https://imgs.search.brave.com/mWnsy5-RfCcN7CGrox6h4vFiVxGExvYMmRxW7CUawqk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTcz/MTEzODc1Ni9mci9w/aG90by92ZWF1LWRl/LWJhbGVpbmUtJUMz/JUEwLWJvc3NlLmpw/Zz9zPTYxMng2MTIm/dz0wJms9MjAmYz1S/a3pHcHZPM0NzT2pK/czdUa2Q1WXdRWFZC/X1FMTUtRLU83Sm9j/TkxDR2l3PQ",
+      "createdAt": "07/12/2020",
+      "isLiked": false
+    },
+    {
+      "id": "5",
+      "title": "Le phoque du Groenland",
+      "content": "Les phoques du Groenland sont connus pour leur pelage blanc lorsqu'ils sont jeunes, qui leur permet de se camoufler sur la banquise.",
+      "image": "https://imgs.search.brave.com/m90CewaRnjrQfErs5PbmHXPo0_SJmvwKIsIk5QHt4w0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvNTI4/MDMzMzcwL2ZyL3Bo/b3RvL2ZlbWFsZS1o/YXJwLXNlYWwuanBn/P3M9NjEyeDYxMiZ3/PTAmaz0yMCZjPVVN/VkRsS3ExSHExbmhO/bnJLMHliU1lOcGYw/TVFocXdjWTVkX2hP/RTNfN2s9",
+      "createdAt": "07/12/2025",
+      "isLiked": false
+    },
+    {
+      "id": "ae59",
+      "title": "L’hippocampe",
+      "content": "Les hippocampes se distinguent par leur posture unique et par le fait que ce sont les mâles qui portent les œufs jusqu'à l’éclosion.",
+      "image": "https://imgs.search.brave.com/20aliCYPwN30Jvwii4eTTaBLjGYRH2O_Qdip5dWPWTU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9oaXBw/b2NhbXBlLW0lQzMl/QTlkaXRlcnJhbiVD/MyVBOWVuLWd1dHR1/bGF0dXMtZGUtbGUt/ZyVDMyVBOW4lQzMl/QTlyYWxlbWVudC1j/b25udS1zb3VzLW5v/bS1kLWxvbmctZm91/aS1lc3QtdW4tcG9p/c3Nvbi1tZXItYXBw/YXJ0ZW5hbnQtYXUt/MTUxOTQ0NjI3Lmpw/Zw",
+      "createdAt": "2025-11-26T12:50:34.161Z",
+      "isLiked": false
+    },
+    {
+      "id": "6",
+      "title": "L’orque",
+      "content": "Surnommée « baleine tueuse », l’orque est en réalité le plus grand des dauphins. Très sociale et dotée d’une remarquable intelligence, elle vit en groupes familiaux soudés appelés pods.",
+      "image": "https://imgs.search.brave.com/1g1NeHy6vRUiTWWX377MYiVMZwW3lXXPjyQ6_RXV150/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9uYXRh/dGlvbi1kLW9ycXVl/LSVDMyVBOXBhdWxh/cmQtc291cy1tYXJp/bmUtMTA3MDgzMTEu/anBn",
+      "createdAt": "2025-11-26",
+      "isLiked": false
+    },
+    {
+      "id": "7",
+      "title": "La baudroie des abysses",
+      "content": "Aussi appelée poisson-pêcheur, la baudroie des abysses vit dans l’obscurité totale des grandes profondeurs et attire ses proies grâce à un appendice lumineux situé sur sa tête.",
+      "image": "https://imgs.search.brave.com/nkHDPgwCW9ibUgzv5JtbEeNWhRUmpJHvRsLoAVD8omE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bmF1c2ljYWEuZnIv/c2l0ZXMvZGVmYXVs/dC9maWxlcy9zdHls/ZXMvY21fMzUzeDIw/My9wdWJsaWMvbm9k/ZS9hcnRpY2xlLzIw/MjMtMDYvUG9pc3Nv/biUyMGFieXNzZXMt/Y3ByLVN1cGVyam9z/ZXBoLUFkb2JlU3Rv/Y2slMjBXRUIuanBn/LndlYnA_aXRvaz1W/a3g0TWdBaQ",
+      "createdAt": "2025-11-26",
+      "isLiked": false
+    },
+    {
+      "id": "0fb9",
+      "title": "Tirano Saurio",
+      "content": "Es un animal que suele vivir en las profundidades, donde se extra el liquido preciado <PETROLEO>",
+      "image": "https://imgs.search.brave.com/LheRw4w9wnCrN74aesXLUio9bcLR7xHhjV2N1rOUcD8/rs:fit:860:0:0:0/g:ce/aHR0cDovL2ltYWdl/cy5kaW5vc2F1cnBp/Y3R1cmVzLm9yZy90/aXRhbm9zYXVydXMt/Y29sYmVydGktbGFy/Z2VfZDIyYy5qcGc",
+      "createdAt": "2025-11-26T13:47:35.673Z"
+    }
+  ]
+}

@@ -1,12 +1,13 @@
-import './App.css'
-
+import "./App.css";
 function App() {
-
   return (
     <>
-      <h1>Bienvenue sur mon blog</h1>
+      <h1>
+        <hr />
+        Bienvenue sur mon blog <hr />
+      </h1>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
